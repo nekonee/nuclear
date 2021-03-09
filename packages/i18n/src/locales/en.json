@@ -170,6 +170,7 @@
     "devtools": "Developer tools",
     "disable-gpu": "Disable hardware rendering (might fix issues with dragging elements and flashing screen)",
     "display": "Display",
+    "streaming": "Streaming",
     "downloads": "Downloads",
     "downloads-count": "Max simultaneous downloads",
     "downloads-dir": "Downloads directory",
